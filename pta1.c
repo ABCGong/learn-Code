@@ -21,7 +21,7 @@ while(true){
 	}
 }
 }
-printf(count);
+printf("%d",count);
 return 0;
 }
 
